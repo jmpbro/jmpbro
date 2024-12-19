@@ -1,4 +1,4 @@
 # About Me 👋
 - 🔭 I’m currently working on an Apprenticeship Programme.
 - 🌱 I’m currently learning C# and .NET.
-- 📚 I love a good book.
+- 📚 I love a good book and a little sit down.
