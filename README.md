@@ -1,4 +1,4 @@
 # About Me 👋
-- 🔭 I’m currently working on an Apprenticeship Programme.
-- 🌱 I’m currently learning C# and .NET.
-- 📚 I love a good book and a little sit down.
+- 🔭 Developer enthusiast - self taught - and cool.
+- 🌱 I’m currently exploring Web Development.
+- 📚 Research & movement are my passions.
